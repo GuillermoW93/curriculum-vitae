@@ -43,20 +43,42 @@ I continuously seek new learning opportunities and innovative solutions to drive
 - Portainer (Proficient, 3+ yrs)
 - Prometheus (Proficient, 1+ yrs)
 - OpsGenie (Proficient/Experienced, 4+ yrs)
+- OpenShift (Proficient, 1+ yrs)
+- ArgoCD (Proficient, 1+ yrs)
+- Helm (Umbrella Charts) (Proficient, 1+ yrs)
+- GitLab Runner (Proficient, 1+ yrs)
+- MinIO (Proficient, 1+ yrs)
+- Azure DevOps (Proficient, 1+ yrs)
+- Harbor (Proficient, 1+ yrs)
+
 
 ## Fun Facts 🧠
-- Aspiring Kubestronaut 🚀
+- Aspiring Kubestronaut (KCNA | CKA | CKAD)🚀🧑‍🚀
 - Passionate about automating everything 🌟
 - Automated my entire home with HA on Raspberry Pi.
 - Fluent in Dutch, English, German and Russian. 
 - Love cycling and exploring the wildest places.
+- Currently working on: CKS/KCSA 🧑‍🚀
 
 ![This is me cycling the Durmitor Mountains in Montenegro](static/colnago.jpg)
 
 ## Experience 🏢
+### Cloud Native Consultant at TrueFullStaq
+* **DevOps Engineer** at Ministerie van Binnelandse Zaken en Koninklijke Relaties
+  * **Dates**: 2025-Present
+    
+  * **Responsibilities**:
+
+    - Building highly-available Kubernetes platform on OpenShift for Government applications. 
+    - Optimizing CI/CD pipelines in GitLab.
+    - Implementing Cloud Native Postgres.
+    - Implement monitoring and logging.
+    - Upgrading images/dependencies using Renovate
+  
+
 ### IT Consultant at NiVo (Network, Cloud, Security)
 * **DevOps Engineer** at KPN B.V.
-  * **Dates**: 2022-Present
+  * **Dates**: 2022-2025
     
   * **Responsibilities**:
 
@@ -149,3 +171,4 @@ I continuously seek new learning opportunities and innovative solutions to drive
 ![CompTIA Security+ ce](https://img.shields.io/badge/CompTIA-Security+-red?style=for-the-badge&logo=comptia)
 ![Kubernetes Cloud Native Associate](https://img.shields.io/badge/Kubernetes-Cloud%20Native%20Associate-blue?style=for-the-badge&logo=kubernetes)
 ![Kubernetes Certified Administrator](https://img.shields.io/badge/Kubernetes-Certified%20Administrator-blue?style=for-the-badge&logo=kubernetes)
+![Kubernetes Certified Application Developer](https://img.shields.io/badge/Kubernetes-Certified%20Application-Developer-blue?style=for-the-badge&logo=kubernetes)
