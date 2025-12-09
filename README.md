@@ -72,7 +72,7 @@ I continuously seek new learning opportunities and innovative solutions to drive
     - Building highly-available Kubernetes platform on OpenShift for Government applications. 
     - Optimizing CI/CD pipelines in GitLab.
     - Implementing Cloud Native Postgres.
-    - Implement monitoring and logging.
+    - Implementing monitoring and logging.
     - Upgrading images/dependencies using Renovate
   
 
@@ -171,4 +171,4 @@ I continuously seek new learning opportunities and innovative solutions to drive
 ![CompTIA Security+ ce](https://img.shields.io/badge/CompTIA-Security+-red?style=for-the-badge&logo=comptia)
 ![Kubernetes Cloud Native Associate](https://img.shields.io/badge/Kubernetes-Cloud%20Native%20Associate-blue?style=for-the-badge&logo=kubernetes)
 ![Kubernetes Certified Administrator](https://img.shields.io/badge/Kubernetes-Certified%20Administrator-blue?style=for-the-badge&logo=kubernetes)
-![Kubernetes Certified Application Developer](https://img.shields.io/badge/Kubernetes-Certified%20Application-Developer-blue?style=for-the-badge&logo=kubernetes)
+![Kubernetes Certified Application Developer](https://img.shields.io/badge/Kubernetes-Certified%20Application%20Developer-blue?style=for-the-badge&logo=kubernetes)
