@@ -53,12 +53,12 @@ I continuously seek new learning opportunities and innovative solutions to drive
 
 
 ## Fun Facts 🧠
-- Aspiring Kubestronaut (KCNA | CKA | CKAD)🚀🧑‍🚀
+- Aspiring Kubestronaut (KCNA | CKA | CKAD | KCSA)🚀🧑‍🚀
 - Passionate about automating everything 🌟
 - Automated my entire home with HA on Raspberry Pi.
 - Fluent in Dutch, English, German and Russian. 
 - Love cycling and exploring the wildest places.
-- Currently working on: CKS/KCSA 🧑‍🚀
+- Currently working on: CKS 🧑‍🚀
 
 ![This is me cycling the Durmitor Mountains in Montenegro](static/colnago.jpg)
 
@@ -172,3 +172,4 @@ I continuously seek new learning opportunities and innovative solutions to drive
 ![Kubernetes Cloud Native Associate](https://img.shields.io/badge/Kubernetes-Cloud%20Native%20Associate-blue?style=for-the-badge&logo=kubernetes)
 ![Kubernetes Certified Administrator](https://img.shields.io/badge/Kubernetes-Certified%20Administrator-blue?style=for-the-badge&logo=kubernetes)
 ![Kubernetes Certified Application Developer](https://img.shields.io/badge/Kubernetes-Certified%20Application%20Developer-blue?style=for-the-badge&logo=kubernetes)
+![Kubernetes Certified Application Developer](https://img.shields.io/badge/Kubernetes-Cloud-Native%20Security%20Associate-blue?style=for-the-badge&logo=kubernetes)
