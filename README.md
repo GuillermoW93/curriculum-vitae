@@ -71,10 +71,10 @@ I continuously seek new learning opportunities and innovative solutions to drive
 
     - Building highly-available Kubernetes platform on OpenShift for Government applications. 
     - Optimizing CI/CD pipelines in GitLab.
+    - Implementing Trivy, Syft/Grype & OWASP ZAP. 
     - Implementing Cloud Native Postgres.
     - Implementing monitoring and logging.
-    - Upgrading images/dependencies using Renovate
-  
+    - Upgrading images/dependencies using Renovate.  
 
 ### IT Consultant at NiVo (Network, Cloud, Security)
 * **DevOps Engineer** at KPN B.V.
