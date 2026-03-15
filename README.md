@@ -74,7 +74,11 @@ I continuously seek new learning opportunities and innovative solutions to drive
     - Implementing Trivy, Syft/Grype & OWASP ZAP. 
     - Implementing Cloud Native Postgres.
     - Implementing monitoring and logging.
-    - Upgrading images/dependencies using Renovate.  
+    - Upgrading images/dependencies using Renovate.
+    - Migrating Ingress to Gateway APIs (HTTPRoute).
+    - Utilizing Kubesec/Trivy and migrate all deployments to use SecurityContext (for principle-of least-privilege).
+    - Implement App-of-Apps and deploy using ArgoCD.
+    - Implement develop, test, prd strategy for our monorepo and deploy using ArgoCD. 
 
 ### IT Consultant at NiVo (Network, Cloud, Security)
 * **DevOps Engineer** at KPN B.V.
