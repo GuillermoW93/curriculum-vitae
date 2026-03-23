@@ -53,7 +53,7 @@ I continuously seek new learning opportunities and innovative solutions to drive
 
 
 ## Fun Facts 🧠
-- Aspiring Kubestronaut (KCNA | CKA | CKAD | KCSA)🚀🧑‍🚀
+- Kubestronaut (KCNA | CKA | CKAD | KCSA | CKS)🚀🧑‍🚀
 - Passionate about automating everything 🌟
 - Automated my entire home with HA on Raspberry Pi.
 - Fluent in Dutch, English, German and Russian. 
