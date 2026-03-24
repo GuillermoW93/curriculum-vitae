@@ -58,7 +58,7 @@ I continuously seek new learning opportunities and innovative solutions to drive
 - Automated my entire home with HA on Raspberry Pi.
 - Fluent in Dutch, English, German and Russian. 
 - Love cycling and exploring the wildest places.
-- Currently working on: CKS 🧑‍🚀
+- Currently working on: CNPA 🧑‍🚀
 
 ![This is me cycling the Durmitor Mountains in Montenegro](static/colnago.jpg)
 
