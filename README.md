@@ -177,3 +177,4 @@ I continuously seek new learning opportunities and innovative solutions to drive
 ![Kubernetes Certified Administrator](https://img.shields.io/badge/Kubernetes-Certified%20Administrator-blue?style=for-the-badge&logo=kubernetes)
 ![Kubernetes Certified Application Developer](https://img.shields.io/badge/Kubernetes-Certified%20Application%20Developer-blue?style=for-the-badge&logo=kubernetes)
 ![Kubernetes Cloud Native Security Associate](https://img.shields.io/badge/Kubernetes-Cloud%20Native%20Security%20Associate-blue?style=for-the-badge&logo=kubernetes)
+![Kubernetes Certified Security Specialist](https://img.shields.io/badge/Kubernetes-Certified%20Security%20Specialist-blue?style=for-the-badge&logo=kubernetes)
