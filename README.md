@@ -74,14 +74,19 @@ I continuously seek new learning opportunities and innovative solutions to drive
     - Optimizing CI/CD pipelines in GitLab.
     
     - Implementing Trivy, Syft/Grype & OWASP ZAP. 
-    
+
+    - Implementing DependencyTrack for scanning SBOMs (CycloneDX).
+      - Connect WebEx Channel for Alerting.
+
     - Implementing SonarQube for SAST.
     
     - Implementing Cloud Native Postgres.
     
     - Implementing Barman Cloud Plugin for CNPG (NetApp S3) and perform DR.
     
-    - Implementing monitoring (Prometheus/Grafana) and Grafana Dashboards using OpenTofu.
+    - Implementing monitoring (Prometheus/Grafana).
+      - Deploy and manage Grafana Dashboards/Alerts using OpenTofu.
+      - Connect WebEx Channel for Alerting.
     
     - Implement Kibana for logging and OpenTelemetry/Elastic APM agents.
     
