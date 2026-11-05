@@ -58,26 +58,41 @@ I continuously seek new learning opportunities and innovative solutions to drive
 - Automated my entire home with HA on Raspberry Pi.
 - Fluent in Dutch, English, German and Russian. 
 - Love cycling and exploring the wildest places.
-- Currently working on: CNPA 🧑‍🚀
+- Last exams to reach Golden Kubestronaut: CBA - KCA - CCA - ICA - LFCS - CNPE 🧑‍🚀
 
 ![This is me cycling the Durmitor Mountains in Montenegro](static/colnago.jpg)
 
 ## Experience 🏢
 ### Cloud Native Consultant at TrueFullStaq
-* **DevOps Engineer** at Ministerie van Binnelandse Zaken en Koninklijke Relaties
+* **DevOps Engineer** at Ministerie van Binnenlandse Zaken en Koninklijke Relaties
   * **Dates**: 2025-Present
     
   * **Responsibilities**:
 
     - Building highly-available Kubernetes platform on OpenShift for Government applications. 
+    
     - Optimizing CI/CD pipelines in GitLab.
+    
     - Implementing Trivy, Syft/Grype & OWASP ZAP. 
+    
+    - Implementing SonarQube for SAST.
+    
     - Implementing Cloud Native Postgres.
-    - Implementing monitoring and logging.
+    
+    - Implementing Barman Cloud Plugin for CNPG (NetApp S3) and perform DR.
+    
+    - Implementing monitoring (Prometheus/Grafana) and Grafana Dashboards using OpenTofu.
+    
+    - Implement Kibana for logging and OpenTelemetry/Elastic APM agents.
+    
     - Upgrading images/dependencies using Renovate.
+    
     - Migrating Ingress to Gateway APIs (HTTPRoute).
+    
     - Utilizing Kubesec/Trivy and migrate all deployments to use SecurityContext (for principle-of least-privilege).
+    
     - Implement App-of-Apps and deploy using ArgoCD.
+    
     - Implement develop, test, prd strategy for our monorepo and deploy using ArgoCD. 
 
 ### IT Consultant at NiVo (Network, Cloud, Security)
@@ -178,3 +193,6 @@ I continuously seek new learning opportunities and innovative solutions to drive
 ![Kubernetes Certified Application Developer](https://img.shields.io/badge/Kubernetes-Certified%20Application%20Developer-blue?style=for-the-badge&logo=kubernetes)
 ![Kubernetes Cloud Native Security Associate](https://img.shields.io/badge/Kubernetes-Cloud%20Native%20Security%20Associate-blue?style=for-the-badge&logo=kubernetes)
 ![Kubernetes Certified Security Specialist](https://img.shields.io/badge/Kubernetes-Certified%20Security%20Specialist-blue?style=for-the-badge&logo=kubernetes)
+![Certified Argo Project Associate](https://img.shields.io/badge/Argo-Certified%20Argo%20Project%20Associate-blue?style=for-the-badge&logo=argo)
+![Certified GitOps Associate](https://img.shields.io/badge/CGOA-Certified%20GitOps%20Associate-blue?style=for-the-badge&logo=kubernetes)
+![Certified Cloud Native Platform Engineering Associate](https://img.shields.io/badge/CNPA-Certified%20Cloud%20Native%20Platform%20Engineering%20Associate-blue?style=for-the-badge&logo=kubernetes)
