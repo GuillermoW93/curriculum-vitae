@@ -58,7 +58,7 @@ I continuously seek new learning opportunities and innovative solutions to drive
 - Automated my entire home with HA on Raspberry Pi.
 - Fluent in Dutch, English, German and Russian. 
 - Love cycling and exploring the wildest places.
-- Last exams to reach Golden Kubestronaut: CBA - KCA - CCA - ICA - LFCS - CNPE 🧑‍🚀
+- Last exams to reach Golden Kubestronaut: KCA - CCA - ICA - LFCS - CNPE 🧑‍🚀
 
 ![This is me cycling the Durmitor Mountains in Montenegro](static/colnago.jpg)
 
